@@ -1,0 +1,6 @@
+- jul，java util logging，jdk1.4自带的，配置复杂、性能差
+- log4j，apache log for java，比jul好用
+- jcl，apache java commons logging，日志接口
+- slf4j，simple logging facade for java，日志接口
+- logback，slf4j的原生实现
+- log4j2，是一个比log4j性能更高的实现

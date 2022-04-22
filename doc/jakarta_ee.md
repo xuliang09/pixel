@@ -1,0 +1,3 @@
+- Java EE，Java平台企业版，2018年3月更名为Jakarta EE，是Sun公司为企业级应用推出的标准平台。
+- 
+- Java平台共分為三個主要版本Java EE、Java SE和Java ME。

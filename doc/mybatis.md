@@ -1,0 +1,3 @@
+- mybatis是方法和xml文件的绑定，hibernate是对象和sql的绑定，mybatis更加松耦合
+- 
+- mybatis generator是自动生成常用CRUD模板代码的工具

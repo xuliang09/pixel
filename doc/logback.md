@@ -1,0 +1,3 @@
+- logback默认查找的配置文件名为 logback-test.xml logback.xml
+- spring logback默认查找的配置文件名为 logback-spring.xml logback.xml（推荐logback-spring.xml）
+- spring logback对logback的配置文件做了扩展，实现了included springProfile等标签

@@ -1,0 +1,5 @@
+- 进入过滤器 -> 进入servlet -> 进入拦截器 -> Controller -> 离开拦截器 ->  离开过滤器
+- 
+- 过滤器是servlet规范，拦截器是spring规范
+- 
+- 过滤器只在servlet前后起作用，拦截器可以作用于几乎spring的任何对象
